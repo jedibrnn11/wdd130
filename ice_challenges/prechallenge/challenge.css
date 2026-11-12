@@ -1,0 +1,21 @@
+.logo {
+    max-width: 200px;
+}
+header {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    font-size: xx-large;
+}
+body {
+    background-color: aquamarine;
+}
+.bodypic {
+    display: grid;
+    max-width: 500px;
+    padding-left: 200px;
+}
+.bodypic2 {
+    float: right;
+    max-width: 500px;
+    padding-right: 200px;
+}
